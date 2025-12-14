@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Video Editor / ComfyUI_Memo",
+  "description": "A browser-based non-linear video editor allowing users to trim, arrange, and combine video and audio tracks with a timeline interface.",
+  "requestFramePermissions": []
+}
